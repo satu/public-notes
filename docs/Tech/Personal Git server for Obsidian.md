@@ -12,7 +12,6 @@ I did it! This article should really be expanded but the gist of it is:
 
 It took me a while. I dump here some of the references that I used:
 
-
 https://www.wundertech.net/how-to-use-docker-on-a-synology-nas/
 https://esc.sh/blog/setting-up-a-git-http-server-with-nginx/
 https://registry.hub.docker.com/_/nginx/
