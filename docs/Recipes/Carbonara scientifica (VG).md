@@ -9,4 +9,4 @@ share: true
 * Black pepper
 
 ## Preparation
-The trick is in the procedure to prepare the egg yolks. I used the method described in [this video](https://youtu.be/6mcEUySwS1c?t=814), note that the ingredients weights I use are slightly different than the one in the video.
+The trick is in the procedure to prepare the egg yolks. I used the method described in [this video](https://youtu.be/6mcEUySwS1c?t=814) (auto-translation of the captions works quite well), note that the ingredients weights I use are slightly different than the one in the video.
