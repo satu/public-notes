@@ -9,7 +9,7 @@ Use cases
 * have guaranteed access to a remote Raspberry Pi running in Italy, which I use as a bridge if I want to watch Italian TV. For performance reason, the actual bridge is done with a (vanilla) Wireguard direct tunnel between that box and my router, but I still keep Tailscale as a reliable way to access the machine
 
 Limitations
-* Unfortunately tailscale is banned on my corporate laptops. I have to rely on 
+* Unfortunately tailscale is banned on my corporate laptops. I have to rely on my phone/tablet when I'm not home.
 
 TODO
 * [ ] document the Wireguard tunnel solution
